@@ -1,3 +1,26 @@
+## core_perception (noetic) - 1.14.9-2
+
+The packages in the `core_perception` repository were released into the `noetic` distro by running `/usr/bin/bloom-release core_perception --track noetic --rosdistro noetic --new-track` on `Tue, 10 Nov 2020 18:24:20 -0000`
+
+The `points_preprocessor` package was released.
+
+Version of package(s) in repository `core_perception`:
+
+- upstream repository: https://github.com/nobleo/core_perception.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.14.9-1`
+- new version: `1.14.9-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## core_perception (noetic) - 1.14.9-1
 
 The packages in the `core_perception` repository were released into the `noetic` distro by running `/usr/bin/bloom-release core_perception --track noetic --rosdistro noetic --new-track` on `Tue, 10 Nov 2020 18:18:24 -0000`
