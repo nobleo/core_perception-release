@@ -2,6 +2,12 @@
 Changelog for package points_preprocessor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.14.10 (2021-01-11)
+--------------------
+* Upgrade to opencv2
+* Migrate to velodyne_pcl for noetic
+* Contributors: Tim Clephas
+
 1.14.9 (2020-08-24)
 -------------------
 * Remove Autoware Health Checker as dependency
