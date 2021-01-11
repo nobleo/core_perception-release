@@ -19,7 +19,6 @@ obj_db
 pcl_omp_registration
 pixel_cloud_fusion
 points_downsampler
-points_preprocessor
 pos_db
 range_vision_fusion
 road_occupancy_processor
