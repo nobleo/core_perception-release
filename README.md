@@ -1,3 +1,61 @@
+## core_perception (noetic) - 1.14.10-1
+
+The packages in the `core_perception` repository were released into the `noetic` distro by running `/home/tim/.local/bin/bloom-release core_perception --track noetic --rosdistro noetic` on `Mon, 11 Jan 2021 09:59:57 -0000`
+
+The `points_preprocessor` package was released.
+
+These packages were explicitly ignored:
+- `autoware_connector`
+- `ekf_localizer`
+- `gnss_localizer`
+- `image_processor`
+- `imm_ukf_pda_track`
+- `lidar_apollo_cnn_seg_detect`
+- `lidar_euclidean_cluster_detect`
+- `lidar_fake_perception`
+- `lidar_kf_contour_track`
+- `lidar_localizer`
+- `lidar_naive_l_shape_detect`
+- `lidar_point_pillars`
+- `lidar_shape_estimation`
+- `naive_motion_predict`
+- `ndt_cpu`
+- `ndt_gpu`
+- `ndt_tku`
+- `obj_db`
+- `pcl_omp_registration`
+- `pixel_cloud_fusion`
+- `points_downsampler`
+- `pos_db`
+- `range_vision_fusion`
+- `road_occupancy_processor`
+- `roi_object_filter`
+- `trafficlight_recognizer`
+- `twist_generator`
+- `vel_pose_diff_checker`
+- `vision_beyond_track`
+- `vision_darknet_detect`
+- `vision_lane_detect`
+- `vision_segment_enet_detect`
+- `vision_ssd_detect`
+
+Version of package(s) in repository `core_perception`:
+
+- upstream repository: https://github.com/nobleo/core_perception.git
+- release repository: https://github.com/nobleo/core_perception-release.git
+- rosdistro version: `1.14.9-3`
+- old version: `1.14.9-4`
+- new version: `1.14.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.17`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## core_perception (noetic) - 1.14.9-4
 
 The packages in the `core_perception` repository were released into the `noetic` distro by running `/home/tim/.local/bin/bloom-release core_perception --track noetic --rosdistro noetic` on `Mon, 11 Jan 2021 08:29:09 -0000`
