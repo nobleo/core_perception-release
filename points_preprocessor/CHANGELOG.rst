@@ -2,15 +2,9 @@
 Changelog for package points_preprocessor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.14.11 (2021-03-01)
+1.14.12 (2021-03-01)
 --------------------
 * Fix zero-division error on empty clouds
-* Contributors: Tim Clephas
-
-1.14.10 (2021-01-11)
---------------------
-* Upgrade to opencv2
-* Migrate to velodyne_pcl for noetic
 * Contributors: Tim Clephas
 
 1.14.9 (2020-08-24)
