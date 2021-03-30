@@ -1,3 +1,26 @@
+## core_perception (melodic) - 1.14.13-2
+
+The packages in the `core_perception` repository were released into the `melodic` distro by running `/usr/bin/bloom-release core_perception --rosdistro melodic` on `Tue, 30 Mar 2021 11:30:27 -0000`
+
+The `points_preprocessor` package was released.
+
+Version of package(s) in repository `core_perception`:
+
+- upstream repository: https://github.com/nobleo/core_perception.git
+- release repository: https://github.com/nobleo/core_perception-release.git
+- rosdistro version: `1.14.13-1`
+- old version: `1.14.13-1`
+- new version: `1.14.13-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## core_perception (melodic) - 1.14.13-1
 
 The packages in the `core_perception` repository were released into the `melodic` distro by running `/home/tim/.local/bin/bloom-release core_perception --rosdistro melodic` on `Mon, 01 Mar 2021 09:27:47 -0000`
